@@ -2,7 +2,7 @@
 
 This folder has a ton of files containing ideas for member learning sessions next year.
 
-In total, we'll be able to run 20ish sessions, give or take. As they become confirmed, this directory may become more structured to accommodate restuls and feedback in addition to just ideas.
+In total, we'll be able to run 20ish sessions, give or take. As they become confirmed, this directory may become more structured to accommodate results and feedback in addition to just ideas.
 
 I want to keep this as open and transparent as possible, so I plan on putting everything up here. If there are some sessions which will rely on shock or surprise to be effective, we can accommodate those as needed (less publicly, although who really is ever going to find this anyway?).
 
