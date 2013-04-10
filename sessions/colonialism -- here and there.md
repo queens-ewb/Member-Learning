@@ -15,3 +15,7 @@ idea from Mikhaela
 ## The Panel
 
 * Nick???
+
+Comment from Mikhaela: I don't think that participating in this format is going to be as easy for members as you think, Phil! Haha I have no idea what I'm doing but I'm hoping this will work. Maybe a session on how to contribute would be helpful? Or gamifying it the way you were thinking. I'd say there should be a really good incentive though in order to reduce the barrier of intimidation (especially for non-engineers!) So far I'm having fun though :). 
+
+On the topic of this session: Here's a heart-wrenching documentary I watched on Residential Schools in Canada: http://aptn.ca/pages/wewerechildren/. It's horrifying but very worthwhile... Under what portfolio would this session follow? Elise's 'international development' portfolio? I'm excited to hear more about that one.
