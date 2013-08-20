@@ -1,5 +1,8 @@
-Hack Devs
-=========
+Retreat!
+========
+
+
+## Hack Devs
 
 
 two hard problems in computing
@@ -14,4 +17,8 @@ eafp
 
 
 
+## Barriers to Participation
 
+Active vs. Passive participation and where Intro/Extroversion fits in?
+
+How to reduce the intimidation and encourage active participation at ML.
