@@ -22,3 +22,12 @@ eafp
 Active vs. Passive participation and where Intro/Extroversion fits in?
 
 How to reduce the intimidation and encourage active participation at ML.
+
+
+
+## Talking about EWB: Objectively vs Functionally?
+
+probably bore everyone with lots of computer stuff...
+
+
+
