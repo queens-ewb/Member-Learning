@@ -74,7 +74,7 @@ Prep Requirements
 -----------------
 
  * [x] Brainstorm session.
- * [ ] Create session outline.
+ * [x] Create session outline.
  * [ ] Get feedback on outline/structure.
  * [ ] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners.
