@@ -24,21 +24,32 @@ blah blah
 
 ### Portfolios
 
-#### Enabling
+Co-prezes -- Geoff and Ingrid. Schpeil slot??
 
- * **asdf**
+#### Enabling (Aiden)
 
-#### Education
+ * **Accounting (Ara)**
+ * **Sponsorship (David + Emily)**
+ * **Marketing (Alex)**
 
- * **Member Learning**
+#### Education (Megan)
 
-#### Action
+ * **Global Development (Elise)**
+ * **Leadership (Jess)**
+ * **Global Engineering (Anand)**
+ * **Member Learning (Phil)**
 
- * **Youth Venture**
+#### Action (Victor)
+
+ * **Youth Venture (Mel + Karri)**
+ * **Political Advocacy (Kriti)**
+ * **Events (Amanda)**
+ * **Fair Trade (Michelle)**
 
 
 Prep Requirements
 -----------------
 
- * [ ] hello
- * [ ] world
+ * [ ] Get feedback on Structure.
+ * [ ] Confirm who is doing schpiels and who's running sessions.
+ * [ ] Meet with session runners.
