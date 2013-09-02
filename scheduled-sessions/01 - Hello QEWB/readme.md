@@ -5,7 +5,7 @@ The first ML of 2013/14, to be held on Wednesday, September 11th, 2013.
 
 Instead of doing the usual "hey, we're ewb, this is what we do, these are our portfolios, blah blah blah...", it would be way cooler if we could accomplish the same goal but in ML style. Instead of talking about what we do, just do what we do, with everybody.
 
-The working idea at this point is: Quick portfolio schpiels, then break off into groups by portfolio. Portfolios will run a relevant mini-session, ideally accompplishing something productive for their portfolio. The sessions will be very short, running twice so that people can learn about multiple portfolios.
+The working idea at this point is: Quick portfolio spiels, then break off into groups by portfolio. Portfolios will run a relevant mini-session, ideally accompplishing something productive for their portfolio. The sessions will be very short, running twice so that people can learn about multiple portfolios.
 
 
 Desired Outcomes
@@ -16,6 +16,12 @@ Desired Outcomes
  * Improvements to portfolios spreads ownership, investment, and responsibility broadly accross the member base.
 
 
+Ideas
+-----
+
+see the [brainstorm](brainstorm.md) document.
+
+
 Detailed Outline
 ----------------
 
@@ -24,7 +30,7 @@ blah blah
 
 ### Portfolios
 
-Co-prezes -- Geoff and Ingrid. Schpeil slot??
+Co-prezes -- Geoff and Ingrid. spiel slot??
 
 #### Enabling (Aiden)
 
@@ -50,6 +56,8 @@ Co-prezes -- Geoff and Ingrid. Schpeil slot??
 Prep Requirements
 -----------------
 
- * [ ] Get feedback on Structure.
- * [ ] Confirm who is doing schpiels and who's running sessions.
+ * [x] Brainstorm session.
+ * [ ] Create session outline.
+ * [ ] Get feedback on outline/structure.
+ * [ ] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners.
