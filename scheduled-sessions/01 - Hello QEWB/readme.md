@@ -11,7 +11,7 @@ The working idea at this point is: Quick portfolio spiels, then break off into g
 Desired Outcomes
 ----------------
 
- * A session in which QEWB is acurately represented.
+ * A session in which the awesomeness of QEWB is acurately represented.
  * Prospective members highly engaged.
  * Improvements to portfolios spreads ownership, investment, and responsibility broadly accross the member base.
 
@@ -25,10 +25,27 @@ see the [brainstorm](brainstorm.md) document.
 Detailed Outline
 ----------------
 
-blah blah
+### Part One: Hello (15 min)
+
+ * (3 min) welcome, basic framing
+ * (12 min) spiels
 
 
-### Portfolios
+### Part Two: Do Stuff (20 min, repeated twice)
+
+ * Mini-sessions by portfolios. Exec facilitate, strive for maximum engagement.
+
+
+### Parth Three: Wrap Up (5 min)
+
+ * blah blah.
+
+
+_is there time to do a bigger group wrap-up where we go around and talk about interesting things that came up?_
+
+
+Portfolios
+----------
 
 Co-prezes -- Geoff and Ingrid. spiel slot??
 
