@@ -31,9 +31,16 @@ Detailed Outline
  * (12 min) spiels
 
 
-### Part Two: Do Stuff (20 min, repeated twice)
+### Part Two: Mini-Sessions (20 min, repeated twice)
 
- * Mini-sessions by portfolios. Exec facilitate, strive for maximum engagement.
+ * Session in groups by portfolio-ish. Exec facilitate, strive for maximum engagement.
+
+   Imaginary example mini-session for say, the QEWB 1337 h4xx portfolio:
+
+    * (3 min) Intros -- name, why you're here, your favourite linux vulnerability
+    * (5 min) Read over a case study of a hacker, say Aaron Swartz.
+    * (7 min) In two groups, discuss ethics of hacking in this case. Is hacking ever ethical?
+    * (5 min) Full group: share ideas and discuss
 
 
 ### Parth Three: Wrap Up (5 min)
