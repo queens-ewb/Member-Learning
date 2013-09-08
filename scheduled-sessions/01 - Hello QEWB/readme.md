@@ -59,6 +59,9 @@ Purpose: Inform new members on what QEWB does and opportunities for them
 Secondary: Entice them to the mini-sessions
 
 
+
+
+
 Drive Signups
 -------------
 
@@ -100,13 +103,38 @@ Prep Requirements
  * [ ] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners and tighten up outlines:
    * [ ] [YV](outline-youth-venture.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [Advocacy](outline-advocacy.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [Fair Trade](outline-fairtrade.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [Leadership](outline-leadership.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [GE](outline-ge.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [JF?????](outline-jf.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
    * [ ] [ML](outline-ml.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
+ * [ ] Powerpoint for intro
+   * [ ] Projector
+   * [ ] Photos for all exec
+   * [ ] Super-simple presentation
  * [ ] Nametags? (could be a big time sink)
 
 
