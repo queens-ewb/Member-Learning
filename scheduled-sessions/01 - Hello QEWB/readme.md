@@ -51,30 +51,44 @@ Detailed Outline
 _is there time to do a bigger group wrap-up where we go around and talk about interesting things that came up?_
 
 
+Spiels
+------
+
+Purpose: Inform new members on what QEWB does and opportunities for them
+
+Secondary: Entice them to the mini-sessions
+
+
+Drive Signups
+-------------
+
+All exec need to try to follow up with attendees who seem really engaged -- seek them out after, talk about stuff from the session, and get them to sign up to the mailing list etc.
+
+
 Portfolios
 ----------
 
-Co-prezes -- Geoff and Ingrid. spiel slot??
+Co-prezes -- Geoff and Ingrid. spiel slot => welcome to qewb spiel   
 
-#### Enabling (Aiden)
+#### Enabling (Aiden => spiel?)
 
  * **Accounting (Ara)**
  * **Sponsorship (David + Emily)**
  * **Marketing (Alex)**
 
-#### Education (Megan)
+#### Education (Megan => spiel)
 
  * **Global Development (Elise)**
- * **Leadership (Jess)**
- * **Global Engineering (Anand)**
- * **Member Learning (Phil)**
+ * **Leadership (Jess)** [maybe]
+ * **Global Engineering (Anand)** [no?]
+ * **Member Learning (Phil)** [maybe..]
 
-#### Action (Victor)
+#### Action (Victor => spiel?)
 
- * **Youth Venture (Mel + Karri)**
- * **Political Advocacy (Kriti)**
+ * **Youth Venture (Mel + Karri)** [session]
+ * **Political Advocacy (Kriti)** [session]
  * **Events (Amanda)**
- * **Fair Trade (Michelle)**
+ * **Fair Trade (Michelle)** [session]
 
 
 Prep Requirements
@@ -82,6 +96,21 @@ Prep Requirements
 
  * [x] Brainstorm session.
  * [x] Create session outline.
- * [ ] Get feedback on outline/structure.
+ * [x] Get feedback on outline/structure.
  * [ ] Confirm who is doing spiels and who's running sessions.
- * [ ] Meet with session runners.
+ * [ ] Meet with session runners and tighten up outlines:
+   * [ ] [YV](outline-youth-venture.md)
+   * [ ] [Advocacy](outline-advocacy.md)
+   * [ ] [Fair Trade](outline-fairtrade.md)
+   * [ ] [Leadership](outline-leadership.md)
+   * [ ] [GE](outline-ge.md)
+   * [ ] [JF?????](outline-jf.md)
+   * [ ] [ML](outline-ml.md)
+ * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
+ * [ ] Nametags? (could be a big time sink)
+
+
+Issues
+------
+
+ * Currently nothing for JF (good opportunity for exposure to that)
