@@ -77,13 +77,13 @@ Co-prezes -- Geoff and Ingrid. spiel slot => welcome to qewb spiel
 
  * **Accounting (Ara)**
  * **Sponsorship (David + Emily)**
- * **Marketing (Alex)**
+ * **Marketing (Alex)** [yes?]
 
 #### Education (Megan => spiel)
 
  * **Global Development (Elise)**
  * **Leadership (Jess)** [maybe]
- * **Global Engineering (Anand)** [no?]
+ * **Global Engineering (Anand)** [yes]
  * **Member Learning (Phil)** [maybe..]
 
 #### Action (Victor => spiel?)
@@ -130,11 +130,19 @@ Prep Requirements
      * [ ] scheduled
      * [ ] met
      * [ ] requirements confirmed
- * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
- * [ ] Powerpoint for intro
+   * [ ] [Marketing](outline-marketing.md)
+     * [ ] scheduled
+     * [ ] met
+     * [ ] requirements confirmed
+ * [ ] Intro Spiels
+   * [ ] Meet and discuss logistics
    * [ ] Projector
    * [ ] Photos for all exec
    * [ ] Super-simple presentation
+ * [ ] Create FB event
+   * [ ] Get a good photo
+   * [ ] catchy name
+ * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
  * [ ] Nametags? (could be a big time sink)
 
 
