@@ -139,7 +139,7 @@ Prep Requirements
    * [ ] Projector
    * [ ] Photos for all exec
    * [ ] Super-simple presentation
- * [ ] Create FB event
+ * [ ] Create FB event (TALK TO ALEX)
    * [ ] Get a good photo
    * [ ] catchy name
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
