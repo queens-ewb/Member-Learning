@@ -114,7 +114,7 @@ Prep Requirements
      * [ ] scheduled
      * [ ] met
      * [ ] requirements confirmed
-   * [ ] [Leadership](outline-leadership.md)
+   * [ ] [Leadership](outline-leadership.md) CANCELED -- Jess will be floating
      * [ ] scheduled
      * [ ] met
      * [ ] requirements confirmed
