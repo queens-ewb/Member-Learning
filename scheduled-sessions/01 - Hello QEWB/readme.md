@@ -59,6 +59,11 @@ Purpose: Inform new members on what QEWB does and opportunities for them
 Secondary: Entice them to the mini-sessions
 
 
+### Announcements
+
+ * Jess -- finding where you belong
+ * Mel -- R2EP
+ * Amanda -- Kenyan food day
 
 
 
@@ -103,7 +108,7 @@ Prep Requirements
  * [ ] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners and tighten up outlines:
    * [ ] [YV](outline-youth-venture.md)
-     * [ ] scheduled (contacted)
+     * [x] scheduled
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [Advocacy](outline-advocacy.md)
@@ -120,7 +125,7 @@ Prep Requirements
      * [ ] requirements confirmed
    * [ ] [JF](outline-jf.md)
      * [x] scheduled
-     * [ ] met
+     * [x] met
      * [ ] requirements confirmed
    * [ ] [ML](outline-ml.md)
      * [ ] requirements confirmed
