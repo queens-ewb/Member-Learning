@@ -82,7 +82,7 @@ Co-prezes -- Geoff and Ingrid. spiel slot => welcome to qewb spiel
 #### Education (Megan => spiel)
 
  * **Global Development (Elise)**
- * **Leadership (Jess)** [maybe]
+ * **Leadership (Jess)** [floating]
  * **Global Engineering (Anand)** [yes]
  * **Member Learning (Phil)** [maybe..]
 
@@ -107,28 +107,22 @@ Prep Requirements
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [Advocacy](outline-advocacy.md)
-     * [ ] scheduled
+     * [x] scheduled
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [Fair Trade](outline-fairtrade.md)
-     * [ ] scheduled
-     * [ ] met
-     * [ ] requirements confirmed
-   * [ ] [Leadership](outline-leadership.md) CANCELED -- Jess will be floating
-     * [ ] scheduled
+     * [x] scheduled
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [GE](outline-ge.md)
      * [ ] scheduled
      * [ ] met
      * [ ] requirements confirmed
-   * [ ] [JF?????](outline-jf.md)
-     * [ ] scheduled
+   * [ ] [JF](outline-jf.md)
+     * [x] scheduled
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [ML](outline-ml.md)
-     * [ ] scheduled
-     * [ ] met
      * [ ] requirements confirmed
    * [ ] [Marketing](outline-marketing.md)
      * [ ] scheduled
@@ -143,10 +137,7 @@ Prep Requirements
    * [ ] Get a good photo
    * [ ] catchy name
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
+ * [ ] Talk to SLC to see what happens to open the ML room
  * [ ] Nametags? (could be a big time sink)
 
 
-Issues
-------
-
- * Currently nothing for JF (good opportunity for exposure to that)
