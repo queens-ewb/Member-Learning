@@ -103,7 +103,7 @@ Prep Requirements
  * [ ] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners and tighten up outlines:
    * [ ] [YV](outline-youth-venture.md)
-     * [ ] scheduled
+     * [ ] scheduled (contacted)
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [Advocacy](outline-advocacy.md)
@@ -115,7 +115,7 @@ Prep Requirements
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [GE](outline-ge.md)
-     * [ ] scheduled
+     * [ ] scheduled (contacted)
      * [ ] met
      * [ ] requirements confirmed
    * [ ] [JF](outline-jf.md)
@@ -125,7 +125,7 @@ Prep Requirements
    * [ ] [ML](outline-ml.md)
      * [ ] requirements confirmed
    * [ ] [Marketing](outline-marketing.md)
-     * [ ] scheduled
+     * [ ] scheduled (contacted)
      * [ ] met
      * [ ] requirements confirmed
  * [ ] Intro Spiels
