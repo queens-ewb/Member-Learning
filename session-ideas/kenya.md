@@ -1,1 +1,2 @@
-with jf insights
+Amanda's JF session
+
