@@ -136,8 +136,13 @@ Prep Requirements
  * [ ] Create FB event (TALK TO ALEX)
    * [ ] Get a good photo
    * [ ] catchy name
+ * [ ] Projector logistics
+   * [ ] Talk to the AMS (should be able to get it weekly for free)
+   * [ ] Get projector -- watch out: ams closes early (go before 4:30 at least)
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
  * [ ] Talk to SLC to see what happens to open the ML room
- * [ ] Nametags? (could be a big time sink)
+ * [ ] get flipchart and markers
+ * [ ] Nametags? (get them from them from the office. Name/position for exec)
+ * [ ] Get everything printed that needs to be printed
 
 
