@@ -172,16 +172,16 @@ Prep Requirements
  * [ ] Intro Spiels
    * [x] Meet and discuss logistics
    * [ ] Projector
-   * [ ] Photos for all exec (need to get from Meg)
+   * [x] Photos for all exec (need to get from Meg)
    * [ ] Super-simple presentation
  * [x] Create FB event (TALK TO ALEX)
    * [x] Get a good photo
    * [x] catchy name
- * [ ] Projector logistics
-   * [ ] Talk to the AMS (should be able to get it weekly for free)
-   * [ ] Get projector -- watch out: ams closes early (go before 4:30 at least)
+ * [x] Projector logistics
+   * [x] Talk to the AMS (should be able to get it weekly for free)
+ * [x] Talk to SLC to see what happens to open the ML room (unoccupied before the session)
+ * [ ] Get projector -- watch out: ams closes early (go before 4:50 at least)
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
- * [ ] Talk to SLC to see what happens to open the ML room
  * [ ] get flipchart and markers
  * [x] Nametags? (Megan's on it)
  * [ ] Get everything printed that needs to be printed
