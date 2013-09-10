@@ -130,7 +130,7 @@ Prep Requirements
    * [ ] [ML](outline-ml.md)
      * [ ] requirements confirmed
    * [ ] [Marketing](outline-marketing.md)
-     * [ ] scheduled (contacted)
+     * [x] scheduled (contacted)
      * [ ] met
      * [ ] requirements confirmed
  * [ ] Intro Spiels
