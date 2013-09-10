@@ -183,7 +183,7 @@ Prep Requirements
  * [ ] Create portfolio signs/posters? (so it's easy to wander and remember who's who)
  * [ ] Talk to SLC to see what happens to open the ML room
  * [ ] get flipchart and markers
- * [ ] Nametags? (get them from them from the office. Name/position for exec)
+ * [x] Nametags? (Megan's on it)
  * [ ] Get everything printed that needs to be printed
 
 
