@@ -58,12 +58,45 @@ Purpose: Inform new members on what QEWB does and opportunities for them
 
 Secondary: Entice them to the mini-sessions
 
+ 1. Geoff/Ingrid we are ewb this is what we do
+   * basic values
+   * basic details
+ 2. Spiels by facilitators
+ 3. Spiels
+ 4. FAAAAAAAAAAAAAAAAAAAAAAAAQ (phil) (ask tough questions!)
+
+
+How do we communicate our values n stuff?
+
+ * Read the vision statement
+ * talk about "ask tough questions"
+ * can we clear up som misconceptions at the same time?
+ * A couple group questions first?
+   * what can we do?
+   * how can we get involved?
+      1. directors
+      2. general members
+      3. volunteers
+      4. ML
+   * what do you get out of it?
+   * africa's hero (amanda shoots this down)
+   * non-engineers?
+
+powerpoint: one slide per 
+
+
+### Spiels
+
+*asdf*
+
+*asdf*
 
 ### Announcements
 
- * Jess -- finding where you belong
- * Mel -- R2EP
- * Amanda -- Kenyan food day
+ * Jess -- finding where you belong [spiel]
+ * Olga -- QGIC Pitch [learning spiel]
+ * Mel -- R2EP [action spiel]
+ * Amanda -- Kenyan food day [jf spiel]
 
 
 
@@ -109,8 +142,11 @@ Prep Requirements
  * [ ] Meet with session runners and tighten up outlines:
    * [ ] [YV](outline-youth-venture.md)
      * [x] scheduled
-     * [ ] met
+     * [x] met
      * [ ] requirements confirmed
+       * [ ] Flipchart Paper
+       * [ ] Laptops (will bring)
+       * [ ] Framing printouts
    * [ ] [Advocacy](outline-advocacy.md)
      * [x] scheduled
      * [ ] met
@@ -134,13 +170,13 @@ Prep Requirements
      * [ ] met
      * [ ] requirements confirmed
  * [ ] Intro Spiels
-   * [ ] Meet and discuss logistics
+   * [x] Meet and discuss logistics
    * [ ] Projector
-   * [ ] Photos for all exec
+   * [ ] Photos for all exec (need to get from Meg)
    * [ ] Super-simple presentation
- * [ ] Create FB event (TALK TO ALEX)
-   * [ ] Get a good photo
-   * [ ] catchy name
+ * [x] Create FB event (TALK TO ALEX)
+   * [x] Get a good photo
+   * [x] catchy name
  * [ ] Projector logistics
    * [ ] Talk to the AMS (should be able to get it weekly for free)
    * [ ] Get projector -- watch out: ams closes early (go before 4:30 at least)
