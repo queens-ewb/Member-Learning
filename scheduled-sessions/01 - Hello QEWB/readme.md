@@ -176,16 +176,17 @@ Prep Requirements
        * [ ] Framing printouts
    * [ ] [Advocacy](outline-advocacy.md)
      * [x] scheduled
-     * [ ] met
-     * [ ] requirements confirmed
-   * [ ] [Fair Trade](outline-fairtrade.md)
+     * [x] met
+     * [x] requirements confirmed
+       * [ ] Flipchart Paper
+   * [x] [Fair Trade](outline-fairtrade.md)
      * [x] scheduled
-     * [ ] met
-     * [ ] requirements confirmed
+     * [x] met
+     * [x] requirements confirmed
    * [ ] [GE](outline-ge.md)
-     * [ ] scheduled (contacted)
-     * [ ] met
-     * [ ] requirements confirmed
+     * [x] scheduled (contacted)
+     * [x] requirements confirmed
+       * [ ] Flipchart Paper
    * [ ] [JF](outline-jf.md)
      * [x] scheduled
      * [x] met
