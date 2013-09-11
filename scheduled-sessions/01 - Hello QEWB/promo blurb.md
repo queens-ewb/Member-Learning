@@ -1,1 +1,1 @@
-
+This meeting will feature an introduction to the exec team, as well as mini-seminars with each of the portfolio teams! Whether you're a first time attendee, or a veteran EWB'er, this ML will be a great way to get to know the chapter and this year's team!
