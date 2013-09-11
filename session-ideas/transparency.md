@@ -1,0 +1,3 @@
+idea person: David
+
+re: ewb's advocacy on mining as an organization with significant funding from mining companies...

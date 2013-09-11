@@ -215,5 +215,6 @@ Prep Requirements
  * [ ] get flipchart and markers
  * [x] Nametags? (Megan's on it)
  * [ ] Get everything printed that needs to be printed
+   * [ ] directing signs
 
 
