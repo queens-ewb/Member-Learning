@@ -1,4 +1,12 @@
-blurb:
+## Ethics and Challenges of Fundraising
+
+* Case study
+* Discussion
+  * Who are the stakeholders?
+  * Why do we fundraise?
+
+
+### blurb
 
 _Rocks Inc._ is a large mineral extraction conglomerate which is interested in expanding into the island nation of Congostan.
 The mining sector in Congostan is plagued by widespread corruption, human rights abuses, and environmental degradation.
