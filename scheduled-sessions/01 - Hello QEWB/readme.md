@@ -138,12 +138,12 @@ Prep Requirements
  * [x] Brainstorm session.
  * [x] Create session outline.
  * [x] Get feedback on outline/structure.
- * [ ] Confirm who is doing spiels and who's running sessions.
+ * [x] Confirm who is doing spiels and who's running sessions.
  * [ ] Meet with session runners and tighten up outlines:
    * [ ] [YV](outline-youth-venture.md)
      * [x] scheduled
      * [x] met
-     * [ ] requirements confirmed
+     * [x] requirements confirmed
        * [ ] Flipchart Paper
        * [ ] Laptops (will bring)
        * [ ] Framing printouts
@@ -167,9 +167,11 @@ Prep Requirements
      * [ ] requirements confirmed
    * [ ] [Marketing](outline-marketing.md)
      * [x] scheduled (contacted)
-     * [ ] met
-     * [ ] requirements confirmed
- * [ ] Intro Spiels
+     * [x] met
+     * [x] requirements confirmed
+       * [ ] Flipchart Paper + Markers
+       * [ ] Framing printouts
+ * [x] Intro Spiels
    * [x] Meet and discuss logistics
    * [ ] Projector
    * [x] Photos for all exec (need to get from Meg)
