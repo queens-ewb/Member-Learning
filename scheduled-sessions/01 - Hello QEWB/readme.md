@@ -58,12 +58,35 @@ Purpose: Inform new members on what QEWB does and opportunities for them
 
 Secondary: Entice them to the mini-sessions
 
+ 0. pb jelly time
  1. Geoff/Ingrid we are ewb this is what we do
+  * Who are we? What is EWB?
+	Comprised of university and professional Chapters all across Canada (50,000 strong)
+	Work with the professional group, EWB Canada in (these specific countries)
+We’re not about projects, or fighting poverty, we’re about outsmarting poverty (this transitions into…)
+	
+  * History	
+	Started in 2000 as a volunteer organization
+	Q.EWB was founded in 2009
+	Now there are almost 50,000 members in our network
+
+  * How are we different - Intelligent development
+	“If change isn’t systemic it isn’t change at all”
+	We identify what doesn’t work early on, learn and improve until we find what does
+	We build relationships with our partners, to help them improve their own communities
+	The end goal is for our work to continue to exist without us	(Better phrasing needed!)
+
    * basic values
-   * basic details
+	We believe in the power of people to create change
+	Change starts here, now and with ourselves
+	We are part of a global system
+ 
  2. Spiels by facilitators
- 3. Spiels
- 4. FAAAAAAAAAAAAAAAAAAAAAAAAQ (phil) (ask tough questions!)
+   * Education
+   * Enabling
+   * Action
+ 3. Talk to Jess
+ 4. FAQ (phil) (ask tough questions!)
 
 
 How do we communicate our values n stuff?
@@ -82,7 +105,11 @@ How do we communicate our values n stuff?
    * africa's hero (amanda shoots this down)
    * non-engineers?
 
-powerpoint: one slide per 
+powerpoint: one slide per facilitation group?
+
+QEWB Poster
+
+Big sign on the door
 
 
 ### Spiels
