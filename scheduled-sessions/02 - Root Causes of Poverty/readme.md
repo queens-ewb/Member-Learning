@@ -1,4 +1,3 @@
-
 from the ewb library
 
 talk to Mel -- she ran this in schools with YV
@@ -52,8 +51,10 @@ ML -- this weekly session. The goal is to take on topics that challenge everyone
 
 EWB -- focusses on alleviating poverty in the worst cases. seeks to address root causes. so we need to back up. waaaaaay back....
 
+Be aware: these are all very complex terms and we can't touch on all the viewpoints.
 
-## 1. What is Poverty? (10 mins)
+
+What is Poverty? (10 mins)
 
 Prompts
 
@@ -65,36 +66,46 @@ Prompts
    -> can development even be "good"?
 
 
-## 2. Wolfe Island Disaster (15 mins)
+Poverty close to home:
 
-The price of gas has suddenly gone way up, and the ferry can no longer operate for free. A one-way trip costs $150.
+SCENARIO:
 
-Who are some stakeholders?
+ * finances collapse in Canada
+ * banks are poor. no one has access to credit.
+ * kingston is poor. services are shut down, ferry costs $200
+ * your parents are poor -- can't bail you out.
 
- * A farmer who formerly relied on frequent small deliveries to the mainland
- * A doctor who commutes every day to Kingston for work
-
-In small groups, map out causes and effects in a system map. notice the original problem manifests itself as many symptoms which might easily be mistook for causes themselves.
-
-
-## 3. Haiti (15 mins)
-
-a lot of things have happened to people in haiti.
-
-give some more framing... without getting too hung up on details... system map of haiti, try to see if we can find root causes.
+ --> When do you start feeling poor?
 
 
-## 4. Development (10 mins)
+SMALL GROUPS
 
-How did development start?
- -> truman
+bring in the Ghana example.
 
-What motivated it?
- -> economics n stuff
+systems-map.
+ -> categorize things as cause and effect, and link chains to start mapping out a system (EXAMPLE)
+ -> (it's messy)
 
-What have the effects been?
- -> bad, basically
-    --> countries who had the best stuff got the most fucked up
+
+post the flip-chart maps at the front
+
+critique our maps (as one big group)
+ -> talk about where our maps are weak and why it's hard to find root causes.
+
+
+
+
+> ## 4. Development (10 mins)
+
+> How did development start?
+>  -> truman
+
+> What motivated it?
+>  -> economics n stuff
+
+> What have the effects been?
+>  -> bad, basically
+>     --> countries who had the best stuff got the most fucked up
 
 
 ## 5. EWB
