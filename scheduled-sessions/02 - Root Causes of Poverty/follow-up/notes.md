@@ -1,0 +1,2 @@
+
+in order to use time efficiently, I suggested that one person from each group come up to tape up their system map, and the rest of us immediately start discussing them. Putting the posters up completely blocked that discussion, as everyone took that as a chance to talk. Which is probably ok or even good -- a chance to throw in any last ideas to the rest of your small group. But yeah, trying to parallelize discussion with something else like putting up posters does not work.
