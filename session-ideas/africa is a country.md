@@ -1,1 +1,3 @@
 I want to take a slightly different spin on this one: instead of just giving convincing evidence that Africa is really diverse patchwork of many countries, lets do some problem-solving on "African issues" which will apply or really not apply at all in different African countries. Expose the falacy by running head-first into it.
+
+map projections!
