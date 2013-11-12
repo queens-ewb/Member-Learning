@@ -13,6 +13,20 @@
         4) Private/ Corporate
 
 
+
+## Session Thesis
+
+* Symbolism is is powerful and dates waaaaay back (Augustus)
+* Private NGOs use the language of development to create legitimacy
+* NGO marketing enables action, but can convey victimization, perpetuate stereotypes, ...
+* When most of our images of "people from india" or "people from africa" are selected as the most appropriate for marketing, it warps our idea of those people
+* Symbolism is very easy to overlook
+* Question who is making the imagery
+
+#### 
+
+
+
 ## Intro
 
 
@@ -33,4 +47,12 @@ roman coin (Augustus)
 (slide and info, no discussion [unless there is a lot of interest?], ~1 or 2 min)
 
 
-## UNICEF
+## UNICEF's Imagery
+
+* generalizes ethnicity in the country/continent they work
+
+
+
+## EWB's Logo
+
+* Just end with it on a slide, don't mention it, just have it up (oooooooooooooooooooooh)
